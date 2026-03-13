@@ -6,7 +6,7 @@
 
   # Tecnologias que estudo
 
-            <i class="devicon-css3-plain"></i>
-          
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height
     
 - 👻 Seja bem vindo! 👻
