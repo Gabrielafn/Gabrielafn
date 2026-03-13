@@ -1,15 +1,16 @@
-# 👽 Olá, eu sou a Gabriela!👽
-- 🤖 Estudante de Desenvolvimento de Sistemas 🤖
-- 🧠 Foco em soluções inteligentes 🧠
-- 🛸 Preparando-se para o mercado de tecnologia 🛸
-- 🔮 Contato: ggabrielafneves@gmail.com 🔮
+<div align="center"><br>
+<h2> 👽 Olá, eu sou a Gabriela!👽</h2>
+<br>
+- 🤖 Estudante de Desenvolvimento de Sistemas 🤖<br>
+- 🧠 Foco em soluções inteligentes 🧠<br>
+- 🛸 Preparando-se para o mercado de tecnologia 🛸<br>
+- 🔮 Contato: ggabrielafneves@gmail.com 🔮<br>
 
-  ## Tecnologias que estudo
+  <h2> Tecnologias que estudo </h2>
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-</div>
-    
+<br><br>
 - 👻 Seja bem vindo! 👻
+</div>
