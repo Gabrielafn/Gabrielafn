@@ -4,7 +4,11 @@
 - 🤖 Estudante de Desenvolvimento de Sistemas 🤖<br>
 - 🧠 Foco em soluções inteligentes 🧠<br>
 - 🛸 Preparando-se para o mercado de tecnologia 🛸<br>
-- 🔮 Contato: ggabrielafneves@gmail.com 🔮<br>
+- 🔮 Contato: ggabrielafneves@gmail.com 🔮<br><br>
+  <a href="https://www.linkedin.com/in/gabriela-neves-1b8780204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40">
+  </a>
+<br>
 
   <h2> Tecnologias que estudo </h2>
 
