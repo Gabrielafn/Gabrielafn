@@ -1,10 +1,10 @@
 <div align="center"><br>
 <h2> 👽 Olá, eu sou a Gabriela!👽</h2>
 <br>
-- 🤖 Estudante de Desenvolvimento de Sistemas 🤖<br>
-- 🧠 Foco em soluções inteligentes 🧠<br>
-- 🛸 Preparando-se para o mercado de tecnologia 🛸<br>
-- 🔮 Contato: ggabrielafneves@gmail.com 🔮<br><br>
+🤖 Estudante de Desenvolvimento de Sistemas 🤖<br>
+🧠 Foco em soluções inteligentes 🧠<br>
+🛸 Preparando-se para o mercado de tecnologia 🛸<br>
+🔮 Contato: ggabrielafneves@gmail.com 🔮<br><br>
   <a href="https://www.linkedin.com/in/gabriela-neves-1b8780204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40">
   </a>
@@ -16,5 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 <br><br>
-- 👻 Seja bem vindo! 👻
+<b> 👻 Seja bem vindo! 👻 </b>
 </div>
