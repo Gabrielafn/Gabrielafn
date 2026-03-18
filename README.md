@@ -1,6 +1,5 @@
 <div align="center"><br>
-<h2> 👽 Olá, eu sou a Gabriela!👽</h2>
-<br>
+<h1> 👽 Olá, eu sou a Gabriela!👽</h1>
 🤖 Estudante de Desenvolvimento de Sistemas 🤖<br>
 🧠 Foco em soluções inteligentes 🧠<br>
 🛸 Preparando-se para o mercado de tecnologia 🛸<br>
