@@ -15,6 +15,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 <br><br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gabrielafn&show_icons=true&theme=dark"> </p>
 <b> 👻 Seja bem vindo! 👻 </b>
 </div>
